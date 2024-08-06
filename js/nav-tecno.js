@@ -26,10 +26,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
         navLinks[i].addEventListener('click', function () {
             for (let x = 0; x < navLinks.length; x++) {
-                navLinks[x].classList.remove('active');
+                navLinks[x].classList.remove('activeTecno');
             }
 
-            navLinks[i].classList.add('active');
+            navLinks[i].classList.add('activeTecno');
         })
     }
 

@@ -8407,6 +8407,11 @@ fieldset:disabled .btn {
     background-image: var(--bs-gradient) !important
 }
 
+.bg-tecnoparque{
+    background-color: white;
+    
+}
+
 .user-select-all {
     -webkit-user-select: all !important;
     -moz-user-select: all !important;
